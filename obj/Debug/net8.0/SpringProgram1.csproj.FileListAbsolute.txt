@@ -1,0 +1,14 @@
+C:\Users\NagoM\source\repos\SpringProgram1\bin\Debug\net8.0\SpringProgram1.exe
+C:\Users\NagoM\source\repos\SpringProgram1\bin\Debug\net8.0\SpringProgram1.deps.json
+C:\Users\NagoM\source\repos\SpringProgram1\bin\Debug\net8.0\SpringProgram1.runtimeconfig.json
+C:\Users\NagoM\source\repos\SpringProgram1\bin\Debug\net8.0\SpringProgram1.dll
+C:\Users\NagoM\source\repos\SpringProgram1\bin\Debug\net8.0\SpringProgram1.pdb
+C:\Users\NagoM\source\repos\SpringProgram1\obj\Debug\net8.0\SpringProgram1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NagoM\source\repos\SpringProgram1\obj\Debug\net8.0\SpringProgram1.AssemblyInfoInputs.cache
+C:\Users\NagoM\source\repos\SpringProgram1\obj\Debug\net8.0\SpringProgram1.AssemblyInfo.cs
+C:\Users\NagoM\source\repos\SpringProgram1\obj\Debug\net8.0\SpringProgram1.csproj.CoreCompileInputs.cache
+C:\Users\NagoM\source\repos\SpringProgram1\obj\Debug\net8.0\SpringProgram1.dll
+C:\Users\NagoM\source\repos\SpringProgram1\obj\Debug\net8.0\refint\SpringProgram1.dll
+C:\Users\NagoM\source\repos\SpringProgram1\obj\Debug\net8.0\SpringProgram1.pdb
+C:\Users\NagoM\source\repos\SpringProgram1\obj\Debug\net8.0\SpringProgram1.genruntimeconfig.cache
+C:\Users\NagoM\source\repos\SpringProgram1\obj\Debug\net8.0\ref\SpringProgram1.dll
